@@ -1,0 +1,7 @@
+PORTFOLIO BTS
+
+1. Ouvrez index.html dans votre navigateur.
+2. Le fichier CSS est dans le dossier css/style.css.
+3. Le portfolio est personnalisé pour Aïji Ferly Ozier.
+4. Le bac STMG mercatique est indiqué pour l’année 2025/2026. Vérifiez que cette formulation correspond bien à votre année d’obtention.
+5. Ajoutez vos propres captures d’écran de projets si vous en avez.
